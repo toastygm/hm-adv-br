@@ -1,0 +1,64 @@
+{
+  "name": "hm-adv-br",
+  "title": "Bloody Raven",
+  "description": "A HârnWorld Mini-adventure: On a wilderness trail, the characters discover an abandoned Khuzdul (Dwarven) outpost",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "bugs": "https://github.com/toastygm/hm-adv-br/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Tom Rodriguez",
+      "discord": "toasty#8538"
+    }
+  ],
+  "scripts": [
+    "./scripts/init.js"
+  ],
+  "packs": [
+    {
+      "entity": "Actor",
+      "label": "Bloody Raven - Actors",
+      "name": "actors",
+      "path": "packs/actors.db",
+      "system": "hm3"
+    },
+    {
+      "entity": "Scene",
+      "label": "Bloody Raven - Scenes",
+      "name": "scenes",
+      "path": "packs/scenes.db"
+    },
+    {
+      "entity": "JournalEntry",
+      "label": "Bloody Raven - Journals",
+      "name": "journals",
+      "path": "packs/journals.db"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "hm3-fffv1",
+      "manifest": "https://raw.githubusercontent.com/toastygm/hm3-fffv1/master/module.json",
+      "type": "module"
+    },
+    {
+      "name": "hm-loc-ko",
+      "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json",
+      "type": "module"
+    },
+    {
+      "name": "scene-packer",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+      "type": "module"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm-adv-br/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-br/master/module.json",
+  "download": "https://github.com/toastygm/hm-adv-br/archive/v0.0.1.zip",
+  "flags": {
+    "allowBugReporter": true
+  }
+}
