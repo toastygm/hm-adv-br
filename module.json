@@ -56,8 +56,8 @@
     }
   ],
   "url": "https://github.com/toastygm/hm-adv-br/",
-  "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-br/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-br/archive/v1.0.0.zip",
+  "manifest": "https://github.com/toastygm/hm-adv-br/releases/latest/download/module.json",
+  "download": "https://github.com/toastygm/hm-adv-br/releases/latest/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
