@@ -2,7 +2,7 @@
   "id": "hm-adv-br",
   "title": "Bloody Raven",
   "description": "A HârnWorld Mini-adventure: On a wilderness trail, the characters discover an abandoned Khuzdul (Dwarven) outpost",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "bugs": "https://github.com/toastygm/hm-adv-br/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -62,7 +62,7 @@
   },
   "url": "https://github.com/toastygm/hm-adv-br/",
   "manifest": "https://github.com/toastygm/hm-adv-br/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-adv-br/releases/v1.1.0/download/module.zip",
+  "download": "https://github.com/toastygm/hm-adv-br/releases/download/v1.1.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
