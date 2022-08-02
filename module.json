@@ -49,14 +49,12 @@
       {
         "id": "hm-loc-ko",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json"
       },
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
