@@ -1,8 +1,9 @@
 {
   "id": "hm-adv-br",
+  "name": "hm-adv-br",
   "title": "Bloody Raven",
   "description": "A HârnWorld Mini-adventure: On a wilderness trail, the characters discover an abandoned Khuzdul (Dwarven) outpost",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "bugs": "https://github.com/toastygm/hm-adv-br/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -13,6 +14,7 @@
       "flags": {}
     }
   ],
+  "minimumCoreVersion": "10",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -48,17 +50,19 @@
     "requires": [
       {
         "id": "hm-loc-ko",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json"
       },
       {
         "id": "scene-packer",
-        "type": "module"
+        "type": "module",
+	"manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
   "url": "https://github.com/toastygm/hm-adv-br/",
   "manifest": "https://github.com/toastygm/hm-adv-br/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-adv-br/releases/download/v1.1.3/module.zip",
+  "download": "https://github.com/toastygm/hm-adv-br/releases/download/v1.1.4/module.zip",
   "flags": {
     "allowBugReporter": true
   }
