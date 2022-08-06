@@ -7,7 +7,7 @@
    * Set to the following to disable:
    *   const welcomeJournal = '';
    */
-  const welcomeJournal = '_Overview';
+  const welcomeJournal = 'Bloody Raven';
   /**
    * additionalJournals will automatically be imported.
    * Set to the following to disable:
