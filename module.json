@@ -1,9 +1,8 @@
 {
   "id": "hm-adv-br",
-  "name": "hm-adv-br",
   "title": "Bloody Raven",
   "description": "A HârnWorld Mini-adventure: On a wilderness trail, the characters discover an abandoned Khuzdul (Dwarven) outpost",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-adv-br/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -14,10 +13,9 @@
       "flags": {}
     }
   ],
-  "minimumCoreVersion": "10",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "12.331"
   },
   "scripts": [
     "scripts/init.js"
@@ -26,24 +24,36 @@
     {
       "label": "Bloody Raven Actors",
       "name": "actors",
-      "path": "packs/actors.db",
+      "path": "packs/actors",
       "system": "hm3",
       "type": "Actor",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Bloody Raven Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db",
+      "path": "packs/scenes",
       "type": "Scene",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Bloody Raven Journals",
       "name": "journals",
-      "path": "packs/journals.db",
+      "path": "packs/journals",
       "type": "JournalEntry",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "relationships": {
@@ -51,18 +61,20 @@
       {
         "id": "hm-loc-ko",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json"
+        "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-ko/master/module.json",
+        "compatibility": {}
       },
       {
         "id": "scene-packer",
         "type": "module",
-	"manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
       }
     ]
   },
   "url": "https://github.com/toastygm/hm-adv-br/",
   "manifest": "https://github.com/toastygm/hm-adv-br/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-adv-br/releases/download/v1.1.5/module.zip",
+  "download": "https://github.com/toastygm/hm-adv-br/releases/download/v1.2.0/module.zip",
   "flags": {
     "allowBugReporter": true
   }

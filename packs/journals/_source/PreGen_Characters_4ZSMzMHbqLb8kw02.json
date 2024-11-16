@@ -1,0 +1,157 @@
+{
+  "name": "PreGen Characters",
+  "pages": [
+    {
+      "name": "Bjarr Pelerom",
+      "type": "text",
+      "text": {
+        "content": "<p>He is mounted, but his palfrey is old and tired. He walks, leading the horse most of the time. He is travelling to Orbaal and then home to Ivinia. He and Husraas have struck up a friendship and are planning to travel together. He speaks Ivinian, Orbaalese and Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_608-1_Priest_Sarajin.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Middle aged</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Viking</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 11 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>165 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Light brown/blonde</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Blue</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Pleasant</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Missing his right arm below the elbow</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Not obvious</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Handaxe, Keltan</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Moustache and beard</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 608-1 Priest Sarajin</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>4 Savor 677</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 42, height 5’ 11”, medium frame, weight 165 lb, attractive appearance, fair complexion, blond hair, blue eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Narcissist, psychopath, missing right arm below the elbow</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Wool tunic and leggings, Wool cloak embroidered with runes, leather knee boots, handaxe and keltan.</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>116d in silver</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td>For information on Runemasters see the article by Aaron Kavli http://www.lythia.com/harnworld/runemasters-ivinia/</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Bjarr was born to a minor retainer of Clan Baelin in Altenhus, Menglana. Like his father, he became a Huscarl at age 16. In 698TR, he was sent with an expedition to collect overdue tribute. Combat ensued. During the battle, Bjarr came face to face with a veteran huscarl. He was overmatched and a blow severed his right arm between the wrist and elbow. Fighting on, he blinded his opponent with the spurting blood and killing him with an axe.</p>\n<p>Although severely injured, Bjarr’s bravery was credited with breaking the line and winning the battle. Quick thinking by one of his companions cauterised the wound with red-hot steel. After several weeks’ recovery, Bjarr was shocked to discover the valhakar was dismissing him from his service because he was now missing a hand.</p>\n<p>Fortunately, Bjarr’s heroism was brought to the attention of the local Sarajinian priest, a member of Clan Aymen. He agreed to adopt the young man and train him as a cleric. After several years of training, the old priest trusted him enough to reveal a carefully guarded secret; he was a Runemaster, able to divine the future. Impressed with Bjarr’s dedication, courage and powerful spiritual abilities he had decided to pass on his skills to Bjarr.</p>\n<p>In 708TR, just as Bjarr was really beginning to make progress, his master came into conflict with the Clan Baelin supported Order of the Pillar of Fire. Three weeks later, the priest was killed in the street. Bjarr only barely escaped with his life. He fled, first to Aymen clanhouse in Vulenheim. Unfortunately, the Agrikans in Altenhus sent word to their temple there and he was forced to flee again.</p>\n<p>After several years moving from temple to temple in Menglana, he finally decided to immigrate to Orbaal. After a short while there, he decided to strike out again and see more of Hârn. He has some money, but he depends on the charity of Sarajin temples or the money he earns divining the future with his runes. He has a burning hatred of Agrikans.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "GMEXEcZeFUvQOdhG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4ZSMzMHbqLb8kw02.GMEXEcZeFUvQOdhG"
+    },
+    {
+      "name": "Ealfric Defard",
+      "type": "text",
+      "text": {
+        "content": "<p>He is mounted on a light warhorse. Ealfric is travelling north in search of employment. He speaks only Hârnic but is interested in learning Orbaalese in order to facilitate finding a job. He will gravitate to those who speak the language. He is a skilled climber.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_127-1_Yeoman_LB.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Middle aged</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>157 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Grey</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Scar (right forearm)</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Yeoman Archer</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Falchion, Dagger, Longbow</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>Quilt byrnie, Ring cowl</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Moustache</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 127-1 Yeoman LB</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>18 Halane 687</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 32, height 5’ 9”, medium frame, weight 157 lb, attractive appearance, fair complexion, brown hair, grey eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Scar (right forearm)</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Cloth tunic and leggings, quilt tunic and cowl, leather calf boots and gauntlets, plate half-helm; round shield, longbow, quiver with 24 arrows, falchion and dagger</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>19d in silver</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Ealfric was born into war. His parents were minor nobility, cousins of Ranald Milaka. His father held a single manor in the Kingdom of Gemala, in what is now southern Kanday. His mother was four months pregnant when King Puril invaded. Ealfric’s father was killed and his mother fled into hiding, taking refuge with a sympathetic yeoman. She died giving birth to him. Ealfric was adopted into the yeoman’s clan and raised as their son. When he turned 18, they told him of the circumstances of his birth. He chose to leave the only family he had ever know and seek his fortune in the world, something which has made him very unpopular with his adopted siblings.</p>\n<p>He is a master archer, a skill he learned from his adopted father. He is also a bowyer and fletcher of considerable ability. For several years, Ealfric earned a comfortable living teaching archery, winning competitions and making bows. This bored him and so he sought work in the north. There, he participated in several seasons of skirmishing with the Copper Hook in the service of the Earl of Selvos. He earned a formidable reputation as an archer and skirmisher. The Rethemi even offered a sizable bounty for him by name. Eventually he left the Earl’s service and drifted east, taking work as a mercenary.</p>\n<p>Ealfric is a passive soul, accepting things as they happen. He has a great sense of humour and a taste for bad puns. A mysterious aura surrounds him and he doesn’t talk much about his past. Lately he has taken up the unusual practice of climbing trees and mountains. Ealfric claims he finds great peace in the trees or quiet mountainsides. He has also found gargun on occasion and earned considerable bounties for their heads.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "17KbmBfMSqEWzVJZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4ZSMzMHbqLb8kw02.17KbmBfMSqEWzVJZ"
+    },
+    {
+      "name": "Giles of Gilam",
+      "type": "text",
+      "text": {
+        "content": "<p>He is mounted on a fine palfrey and is leading two fillies. Giles is travelling to Orbaal on behalf of his master to sell the two horses. He will not let anyone ride them. He speaks only Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_322-2_Ostler.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>157 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Red</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Excellent</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Journeyman Ostler</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Club</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>Several horses</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Freckles</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 322-2 Ostler</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>23 Halane 696</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 23, height 5’ 9”, medium frame, weight 157 lb, average appearance, fair complexion, red hair, hazel eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Cloth cap, leggings and tunic, leather knee boots, leather gloves. Carries a dagger, a heavy stick (for horse training, can double as a club), and a whip</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>24d in silver in a money pouch, plus several usurers’ notes for various cities</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Giles of Gilam is the son of a master ostler who is bonded to a prominent and wealthy nobleman. Giles’s father has been conducting a warhorse-breeding program for his noble patron since becoming a master ostler. After twenty years, the horse farm has started producing warhorses of superior stamina, larger size, and the right temperament for war. Success has not come without some problems, and the nobleman has agreed to introduce some new blood into the line to correct these issues.</p>\n<p>As part of his journeyman duties, Giles has been sent on a buying mission to locate horses with the qualities that are to be introduced into the bloodline. To aid him, Giles has a letter of introduction written by his patron noble, and letters that will allow him to draw on usurer funds at major cities. These letters of credit are only useable by someone who can offer the correct code phrase to the usurer. It has been impressed upon Giles the importance of keeping the code phrase secret. He is also using this trip to make contact with other ostlers. Once this mission is complete, he will be leaving home to study with other ostlers in order to achieve his master rank.</p>\n<p>Giles can be encountered at any of the major horse fairs or trade gatherings throughout Hârn. The Burzyn horse fair, the Chelni Gathering, Tashal, or wherever horses are to be found. He is predominantly interested in mares, but will purchase a stallion if it exhibits the right characteristics. At any given time, he may be found travelling with up to four horses.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "I3qW5cJO7Co5Q4yd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4ZSMzMHbqLb8kw02.I3qW5cJO7Co5Q4yd"
+    },
+    {
+      "name": "Husraas of Kjalis",
+      "type": "text",
+      "text": {
+        "content": "<p>He is on foot, leading two mules. Husraas is returning to Orbaal to catch a ship home to Ivinia. He is carrying a large amount of shipwright tools on his mules; they may prove very useful in moving the boulder. He speaks Ivinian, Orbaalese and Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_329-1_Shipwright.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Middle aged</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Viking</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>6 ft</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>153 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Dark blonde</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Unpleasant</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Stutterer</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Shipwright</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Rich</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Handaxe, Broadsword, Keltan</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>Two pack mules</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Moustache and beard</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 329-1 Shipwright</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>28 Morgat 687</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 32, height 6’ 0”, light frame, weight 153 lb, attractive appearance, fair complexion, dark blond hair, hazel eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Stutterer</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Fine cloth tunic and leggings, wool cap, leather calf boots, very fine handaxe (WQ 15) and keltan. Add plate half-helm, quilted leather byrnie (APV 6, 6, 4, 6), broadsword and round shield if he has time to prepare.</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>£1 in gold, 220d in silver</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Husraas is currently “between” positions. Born into a successful clan, he entered the family shipwright business at twelve. He showed tremendous natural talent and promise, developing swiftly over the next seven years. He had no problem graduating to journeyman. He travelled widely, collecting twelve recommendations in just two years, making him a master shipwright in his own right. Not wanting to return to Ivinia, he travelled to Orbaal where he accepted a position with Master Taareskeld in Geldeheim as a bonded master.</p>\n<p>A creative, inventive, innovative and artistic master, Husraas was soon at odds with his boss over the best way to complete several projects. Unfortunately, when Husraas gets excited or stressed, he has a very severe stutter. Master Taareskeld frequently used Husraas’ speech impediment to mock him, belittle his ideas and imply that he was stupid. A brilliant shipwright, this infuriated Husraas. Finally, the two came to blows and had to be physically separated by the journeymen. Husraas packed up his belongings and left the next morning.</p>\n<p>Desperate to depart as quickly as possible, he refused to wait for the next ship and instead joined a merchant caravan heading south overland. Trained as a huscarl in his youth, Husraas signed on as a caravan guard in return for wages and free food. He has some vague ideas about perhaps heading south to Melderyn or east to Tharda, Kanday or Rethem. At this point he just wants to get as far away from Geldeheim as he can. No one in the caravan is aware he is actually a shipwright. He has two pack mules loaded with his personal belongings including letters of reference and his large collection of tools.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "ModbfHOBUwAkCabb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4ZSMzMHbqLb8kw02.ModbfHOBUwAkCabb"
+    },
+    {
+      "name": "Ylina",
+      "type": "text",
+      "text": {
+        "content": "<p>She is on foot, leading two mules, and is heading to Orbaal on “business”. She will not allow anyone to touch the packs on her mules (they contain smuggled weapons). She speaks Orbaalese, Jarinese and Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_124-1_Viking_Clansman_LF.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Viking</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 7 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Scant</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>119 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Blonde</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Blue</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Weaponcrafter</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Well off</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Warhammer, dagger</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>Plate half-helm, mail byrnie, round shield</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>One or two mules</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 124-1 Viking Clansman LF</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>17 Kelen 694</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 25, height 5’ 7”, scant frame, weight 119 lb, size 5, average appearance, fair complexion, blonde hair, blue eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Leather knee boots and gauntlets; cloth leggings, tunic and hood; plate half-helm and vambraces; mail byrnie; Warhammer, keltan and round shield. Crossbow sometimes carried on her mule.</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>168d in silver in a money pouch</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Ylina is the product of an Orbaalese weaponcrafter and his Jarin war bride. Raised in the Sarajinian faith, Ylina became a shieldmaiden at age 15 after a drunken Ivinian sailor tried to take advantage of her and she killed him with his own shorkana. In 714, while visiting Lorkin, Ylina witnessed the brutality of Clan Geldestaar against the Jarin. She tried to intervene on the behalf of a Jarin woman, but was ultimately forced to flee Lorkin after killing one of Jaus Geldestaar’s men.</p>\n<p>Since fleeing Lorkin Ylina has lost faith in Sarajin, stopped using her clan name, and started smuggling weapons to the Jarin. She has also honed her physical abilities into an impressive fighting trim, with almost no body fat. She is a creature of steel and whipcord, fuelled by anger. The only people she hates more than Clan Geldestaar are the Crimson Dancers. At a distance, Ylina is sometimes mistaken for an adolescent male.</p>\n<p>Ylina has contacts among the Jarin of Azadmere. They are the source of the weapons she smuggles to the Jarin of Orbaal. She has also gifted several Khuzan-made weapons to Noron to allow her and her goods safe passage through his territory. She typically moves weapons in small batches by mule, no more than one or two mules at a time. She usually portrays herself as a travelling weaponcrafter. Her skill in this area is not exceptional, but is adequate to keep up the pretence. She has been known to hire Taelda or others to help her move her cargo. Rebel groups pay her what they can and she sometimes moves stolen goods for them.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "BZzK1PxBhoW4yxZd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4ZSMzMHbqLb8kw02.BZzK1PxBhoW4yxZd"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201515753,
+    "modifiedTime": 1659201515753,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "4ZSMzMHbqLb8kw02",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!4ZSMzMHbqLb8kw02"
+}

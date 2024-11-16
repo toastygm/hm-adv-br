@@ -1,0 +1,186 @@
+{
+  "name": "Bloody Raven",
+  "pages": [
+    {
+      "name": "Afterward",
+      "type": "text",
+      "text": {
+        "content": "<p>Once the outpost has been fully explored, the PCs will have to decide what they want to do with their find. Replacing the shutter covering the crossbow loop and rolling the boulders back over the openings will conceal the outpost again, allowing the PCs to return at a later date. Or, they may choose just to leave it once they have finished looting it. If they don’t seal it up or conceal it in someway, there is a good chance that others will stumble upon it. They may return to find someone else (gargun, ivashu or brigands) have taken over this nice little home.</p>\n<p>Using it as a hideout also has many possibilities. If it is far from civilization, it could serve as a retreat, stronghold, or underground manor from which to build a new settlement. If it is in the middle of settled territory it could act as a secret base, cache or emergency retreat from which to stage their nefarious activities.</p>\n<p>The GM can vary the stage of repair (or disrepair) of the outpost to either encourage or discourage PC. If the GM wants the PCs to move it, more of the fixtures can have survived, preserved by outstanding Khuzdul workmanship (especially the front door and portcullis). If the GM wants the PCs to move on, dangerous cracks, shifting rock, heavy water leakage can make the location the PCs want to get out of quickly.</p>",
+        "format": 1
+      },
+      "_id": "DJtq3xkH0Ar4lUxX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.DJtq3xkH0Ar4lUxX"
+    },
+    {
+      "name": "Convention Play",
+      "type": "text",
+      "text": {
+        "content": "<p>This adventure was run during HârnCon 3. It can easily be completed within a four-hour timeslot simply by varying the difficulty of finding the backdoor or by increasing the number of opponents found in the outpost. The following list of suggested NPCs and PCs is drawn from the Friends, Foes and Followers supplements. A maximum of 4 – 5 PCs is recommended. The large number of NPCs allows the GM to add time pressure (the jeweller wishes to move on) or to free the PCs from uninteresting tasks such as tending camp or mounting a sentry.</p>\n<h2>Setting the Scene</h2>\n<p>Klinla of Vebelirky is planning to travel the Fur Road from Tashal to Leriel to meet an important client and is unwilling to wait for the next large caravan. His guide, Arwalin, suggests that the four of them would be too vulnerable on the trail and suggests recruiting other travellers to add safety in numbers. Arwalin makes it known through the taverns of Tashal that he is assembling a caravan. The PCs are all travelling to Orbaal for their own reasons and join up. Although Klinla is the richest and most important member of the group, and nominally the leader, it is clear that Arwalin is actually running the caravan. The PCs will primarily deal with Arwalin.</p>\n<p>The group leaves Tashal and makes their way to Olokand and from there up the Fur Road. They make a final stop at Loban Manor before heading into the wilderness. The adventure takes place at a campsite eight leagues (two watches, one day’s trail march by foot) from Loban. The group sets up camp without incident. The PCs make themselves comfortable while Gathric tends to Klinla and Otto. Arwalin scouts out the area. The PCs and NPCs set up a night watch schedule and everyone goes to bed. During the night they hear a raven cawing. After an hour or so, Gathric throws a rock at the bird and upsets the stone shutter (see Opening in @UUID[JournalEntry.9g5RnlWVkfBPCIUW.JournalEntryPage.HDAmi0EI1JEy5SvE]{Overview}).</p>",
+        "format": 1
+      },
+      "_id": "Mo9iEjAbD3mq8369",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.Mo9iEjAbD3mq8369"
+    },
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>This module is made possible by the hard work of HârnWorld fans, and is provided at no cost. This work is an adaptation of the article <a href=\"https://www.lythia.com/adventures/bloody-raven/\">The Bloody Raven</a> available at the HârnWorld fan site <a href=\"https://www.lythia.com/\">Lythia.com</a>.</p>\n<p> </p>\n<p><strong>Writer: </strong>Kerry Mould</p>\n<p><strong>Contributor: </strong>Andy Gibson</p>\n<p><strong>Original Maps: </strong>Thomas Shook</p>\n<p><strong>Converted to Foundry VTT: </strong>Tom Rodriguez</p>\n<p>This module is \"<a href=\"https://www.lythia.com/about/publishing-fan-written-material/\">Fanon</a>\", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>\n<p> </p>\n<p>Some assets used to create the maps in this module are from <a href=\"https://www.forgotten-adventures.net/\">Forgotton Adventures</a>.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "AmA4VWDqSVQwKtNa",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 150000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.AmA4VWDqSVQwKtNa"
+    },
+    {
+      "name": "Options for an Expanded Adventure",
+      "type": "text",
+      "text": {
+        "content": "<p>Option 1: New Hideout. Once the PCs have explored and cleaned out the outpost, it makes a great base of operations for a group of adventurers. It may also begin to attract their enemies.</p>\n<p>Option 2: Disgruntled Khuzdul. Unbeknownst to the PCs, the backdoor is enchanted with a spell that alerts Azadmere. About a month after the PCs open the outpost, a contingent of Khuzdul arrive to reclaim their property. If the PCs are present when the dwarves arrive, they are besieged until they agree to return anything they have found and depart, never to return. If the PCs are not present, they will return to find the Khuzdul have returned and are now occupying “their” outpost.</p>\n<p>Option 3: What About Our Share? If the PCs were part of a larger group (especially caravan guards in employ of a merchant), they will be disturbed to find that their employer does not intend to share. He hires additional guards and tosses the PCs out on their ear, minus any loot they may have found. Will they go quietly?</p>\n<p>Option 4: Betrayed. While the PCs are exploring the outpost, Klinla orders his men to close the backdoor and pile stones on it. He entombs the PCs, assuming that they will starve to death. He intends to steal their horses, mules and belongings and return later to loot the outpost (and their bodies) at his leisure. The crossbow loops are too narrow to slip through. Can the PCs get the front door open? What will they do once they get out and find themselves in the wilderness with nothing but what they were carrying when they went in?</p>\n<p>Option 5: Completing the Trip. Once the PCs have finished with the outpost, they still face another ten days (80 leagues) travelling through the wilderness with people they barely know. Gargun, barbarian or brigand attacks are all a possibility. When they reach Orbaal, will each of them go their separate ways?</p>",
+        "format": 1
+      },
+      "_id": "NdpGdRjtkdJbGsEz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.NdpGdRjtkdJbGsEz"
+    },
+    {
+      "name": "PC’s Motivation and Reward",
+      "type": "text",
+      "text": {
+        "content": "<p>The biggest motivations in this adventure are curiosity and greed. The noisy clatter of the falling shutter inside what is supposed to be a solid cliff should spark some curiosity. The torch lit view of a mysterious large cavern obviously carved by an intelligent agent should make the PCs wonder how deep it goes. Once the PCs open the back door and discover a long lost Khuzdul outpost, visions of dwarven treasure, weapons and gold should drive them forward.</p>\n<p>If the PCs are in the employ of someone else (i.e. caravan guards for a merchant), the GM also has the option of using a little stick. The merchant wants to explore this ruin and orders his employees to assist him. Of course, since this is not in their original contract, smart (and greedy) PCs will be able to negotiate an additional bonus or share of the treasure.</p>",
+        "format": 1
+      },
+      "_id": "IoCoDm46TVEFapTe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.IoCoDm46TVEFapTe"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"0font-size:12pt\\&quot;\"><strong>Difficulty: Low to Moderate</strong></span></p>\n<p>The Bloody Raven is a \"Adventure Module\"; it describes the discovery of an abandoned Khuzdul outpost.</p>\n<p>This mini-adventure is suitable for use as a fill-in between larger adventures in any campaign, a sidetrack to allow the PCs to discover a hideout, or as a location for a climactic battle with a hated enemy. It is generic enough that it could be located in any kingdom on Hârn, though it would work best in Kaldor or Orbaal. It may be played at anytime of the year, though winter will make discovering the back door much more challenging.</p>\n<p>This module is based on the \"<a href=\"https://www.lythia.com/adventures/bloody-raven/\">The Bloody Raven</a>\" fanon; please see @UUID[JournalEntry.9g5RnlWVkfBPCIUW.JournalEntryPage.AmA4VWDqSVQwKtNa]{Credits} for more information.</p>\n<p>The location of this adventure is around and within the <a href=\"https://github.com/toastygm/hm-loc-ko\">Khuzdul Outpost</a>.  That module should have already been loaded; see that module for details on the scenes and descriptions of the outpost.</p>\n<h2>Using this module with Non-HârnMaster systems</h2>\n<p>This module, with the exception of the Actors, is system-agnostic.  See the section below on NPCs for details about the villans who are provided as HârnMaster Actors; these details may be used to generate appropriate statistics for your game system.</p>\n<p> </p>\n<h2>Lead-Ins</h2>\n<h3>Caravan Guards</h3>\n<p>The PCs have hired on as escorts to a merchant and are en route from one location to another. They stop just off the trail in the natural alcove of a limestone cliff and set up camp for the night.</p>\n<h3>A Little Assistance Please</h3>\n<p>A sometimes-shifty NPC acquaintance of the PCs comes across the outpost by accident. After failing to find a way in, he decides he needs to recruit a little muscle, the PCs.</p>\n<h3>The Non-Accident</h3>\n<p>The NPC who finds the outpost is actually a Khuzdul agent sent to recover one of the “Keys of Hrazadar” (hidden in the outpost). He knew exactly where it was and is using the PCs as pawns. He cares only about the key, they can have everything else.</p>\n<h2>Setting</h2>\n<p>The adventure begins on a wilderness section of road or trail. The four caravan routes out of Tashal (the Salt Route, Genin’s Trail, the Fur Road and Noron’s Way) are the best choices. The location should be at least a day’s travel from civilization. If the GM wishes to be kind, the site of the outpost should be off a little used “short-cut” which is only know to a few travellers. This minimizes the chance of interruption while searching for the entrance.</p>\n<p>Alternately, the section of road could be deep in the heart of civilized territory, just a mile from the local village. The area should be well known, a convenient place to collect stone and a popular place for the local teens to sneak off to and have the occasional party. The location should be far enough away that the PCs will be able to discover the back door without attracting immediate attention, however, later attention may be a useful plot device for the GM.</p>\n<p>The GM is also encouraged to place this outpost in unlikely places, such as just north of the local map for Caer Minarsas. This makes getting into the site a real challenge and its value as a hideout immeasurable, especially if the PCs are operating on the shady side of the law.</p>\n<h2>Background</h2>\n<h3>History</h3>\n<p>The Khuzdul constructed the outpost during the Codominium times as an outpost, way station and hunting lodge. It was abandoned over 1000 years ago and has remained undisturbed for a millennia.</p>\n<h3>Opening</h3>\n<p>The PCs are travelling through the wilderness. At the end of the day, they decide to stop just off the trail for the night. They set up camp along the edge of a limestone cliff about forty feet high. An alcove in the cliff offers protection from the wind and offers protection from attack on three sides. An old campfire ring indicates that others have camped here before. The PCs establish camp, set a watch and retire for the night.</p>\n<p>During the night, a raven, sitting on a cliff ledge squawks continually in protest at the human intrusion. Finally, an irate NPCs mutters a curse, crawls out of his bedroll and throws a rock at the “Bloody Raven”. The rock misses the bird but hits one of the shutters that are delicately balanced in the outpost’s crossbow loops. It falls inward making a loud, echoing crash, definitely not natural, and wakes all of the other members of the party.</p>\n<p>If one of the PCs doesn’t think of it, one of the NPCs scales the cliff to investigate the strange sound. Once at the level of the ledge, they call for a torch. They stick their arm deep into the strange crevice revealing the crossbow gallery and guardroom, revealing tantalising glimpses of obviously artificially carved rooms.</p>\n<h2>Objective</h2>\n<p>The objective of this adventure is a straightforward dungeon crawl, with the prize being the dungeon itself. The first obstacle is trying to determine how to get into the tunnels. Once the PCs have discovered and opened the back door, the outpost is small enough to be explored in a single session. There are a few small treasures, but nothing game un-balancing. In fact, if the PCs chose to keep the outpost for their own, it can be an excellent way to separate them from their excess cash as they go about restoring it.</p>\n<h2>Occupants</h2>\n<p>This mini-adventure is designed as a puzzle and can be easily played without any opponents. However, that does not mean that a GM cannot choose to add a few surprises for the PCs to deal with.</p>\n<p><strong>Imagined: </strong>To ensure a constant supply of fresh air, the Khuzdul drilled a number of small horizontal shafts from the complex out to the downwind side of the cliff. These ventilation shafts sometimes act as windpipes, especially when there is a strong breeze. This creates all sorts of moans, whistles and other sounds. They can also cause torches to flicker and even blow out, raising tensions among paranoid PCs.</p>\n<p><strong>Mundane: </strong>There are several ways into the outpost. The above-mentioned ventilation shafts allow small animals (such as bats, squirrels, weasels and the like) to enter from the cliff face. The large drainpipe in the storeroom allows medium sized animals (badgers, foxes and most dangerous of all, a wolverine) to enter from the rocks at the base of the cliff. Such mundane animals can be used to create tension. If the GM wishes to introduce combat into the scenario, it is suggested that they add a wolverine into the storeroom [room 4]. It has claimed the room as its den. Hints, such as sounds of movement and a harsh musky smell (totally unfamiliar to anyone with less than Tracking 90) may alert the PCs to something ominous. The wolverine will not attack immediately; rather it will bare its teeth, raise the hair on its back, stick up its bushy tail, and make a low growl. If the PCs back away, the wolverine will most likely retreat down the drain and flee.</p>\n<p><strong>Supernatural: </strong>During the rush to close up the outpost, one of the Khuzdul slipped and fell from the escape ladder. He struck his head, dying instantly. His companions checked on him and when they determined he was dead, they laid his body to rest in the hall. Unfortunately, in the rush, his soul was not properly commended to Siem. As a result, the poor fellow’s soul has been condemned to walk the outpost forever looking for the way out. The ghost of Akthul Narag will most commonly be encountered on the upper level, especially in and around the site of his death at the base of the escape ladder. His next most preferred location is in the main hall where his body was laid to rest. Nothing remains of his body.</p>\n<h2>Adventure Information</h2>\n<ul>\n<li>@UUID[JournalEntry.9g5RnlWVkfBPCIUW.JournalEntryPage.Mo9iEjAbD3mq8369]{Convention Play}</li>\n<li>@UUID[JournalEntry.9g5RnlWVkfBPCIUW.JournalEntryPage.DJtq3xkH0Ar4lUxX]{Afterward}</li>\n</ul>\n<h2>NPCs</h2>\n<p>The following are suggested NPCs for use with this adventure.  Journal entries are provided for those using systems other than HârnMaster.</p>\n<table style=\"0width:99.1477%;height:51px\\&quot;\" border=\"\\&quot;1\\&quot;\">\n<tbody>\n<tr style=\"0height:17px\\&quot;\">\n<td>Name</td>\n<td>HârnMaster Actor</td>\n<td>Journal Entry</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Arwalin of Rogila (Guide)</td>\n<td> </td>\n<td>@UUID[JournalEntry.0L1bAO73zNxEHhfb.JournalEntryPage.6UVWmXqjBCXAtIcT]{Arwalin of Rogila}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Klinla of Vebelirky (Guildsman)</td>\n<td> </td>\n<td>@UUID[JournalEntry.0L1bAO73zNxEHhfb.JournalEntryPage.sUbYXmC0lT1fOYLK]{Klinla of Vebelirky}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Otto (Klinla's Bodyguard)</td>\n<td> </td>\n<td>@UUID[JournalEntry.0L1bAO73zNxEHhfb.JournalEntryPage.x4XyV4mSQwtUzKjh]{Otto}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Gathric of Deschu (Klinla's Manservant)</td>\n<td>\n<p> </p>\n</td>\n<td>@UUID[JournalEntry.0L1bAO73zNxEHhfb.JournalEntryPage.euofpdQpVG1WRirj]{Gathric of Deschu}</td>\n</tr>\n</tbody>\n</table>\n<h2>Suggested PCs</h2>\n<p>The following are suggested PCs for this adventure if run as a one-shot (single session adventure). Journal entries are provided for those using systems other than HârnMaster</p>\n<table style=\"0width:99.1477%;height:51px\\&quot;\" border=\"\\&quot;1\\&quot;\">\n<tbody>\n<tr style=\"0height:17px\\&quot;\">\n<td>Name</td>\n<td>HârnMaster Actor</td>\n<td>Journal Entry</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Ylina (Clanswoman)</td>\n<td> </td>\n<td>@UUID[JournalEntry.4ZSMzMHbqLb8kw02.JournalEntryPage.BZzK1PxBhoW4yxZd]{Ylina}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Husraas of Kjalis (Shipwright)</td>\n<td> </td>\n<td>@UUID[JournalEntry.4ZSMzMHbqLb8kw02.JournalEntryPage.ModbfHOBUwAkCabb]{Husraas of Kjalis}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Giles of Gilam (Journeyman Ostler)</td>\n<td> </td>\n<td>@UUID[JournalEntry.4ZSMzMHbqLb8kw02.JournalEntryPage.I3qW5cJO7Co5Q4yd]{Giles of Gilam}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Ealfric Defard (Yeoman)</td>\n<td> </td>\n<td>@UUID[JournalEntry.4ZSMzMHbqLb8kw02.JournalEntryPage.17KbmBfMSqEWzVJZ]{Ealfric Defard}</td>\n</tr>\n<tr style=\"0height:17px\\&quot;\">\n<td>Bjarr Pelerom (Cleric Sarajin)</td>\n<td> </td>\n<td>@UUID[JournalEntry.4ZSMzMHbqLb8kw02.JournalEntryPage.GMEXEcZeFUvQOdhG]{Bjarr Pelerom}</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "HDAmi0EI1JEy5SvE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9g5RnlWVkfBPCIUW.HDAmi0EI1JEy5SvE"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201515763,
+    "modifiedTime": 1659201515763,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "9g5RnlWVkfBPCIUW",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!9g5RnlWVkfBPCIUW"
+}

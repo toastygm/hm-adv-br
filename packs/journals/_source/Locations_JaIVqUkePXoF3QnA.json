@@ -1,0 +1,157 @@
+{
+  "name": "Locations",
+  "pages": [
+    {
+      "name": "Backdoor and Top of Cliff",
+      "type": "text",
+      "text": {
+        "content": "<p>The departing Khuzdul slid a large boulder over the only other entrance to their way station. Although there are other large rocks on the top of the cliff, this is the largest and it stands out. The ground rises gently up to the cliff end before dropping steeply. The soil on the top of the cliff thin and patchy, dwindling to nothing as it reaches the edge of the drop.</p>",
+        "format": 1
+      },
+      "_id": "k2h70ib1oKqD7UZ1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JaIVqUkePXoF3QnA.k2h70ib1oKqD7UZ1"
+    },
+    {
+      "name": "Campsite and Base of Cliff",
+      "type": "text",
+      "text": {
+        "content": "<p>Screened from casual view by trees and bush, the alcove in the cliff wall is well sheltered from the prevailing winds. The remains of many previous campfires and bits of debris indicate the campsite is used on a regular, if infrequent, basis. The deciduous trees (elm, birch and larch) at the base of the cliff are relatively new growth. There are indications that a forest fire burned through the area 20 years ago or more. The forest floor is mostly free of thick undergrowth and there is enough open grass to graze a couple of dozen horses or mules for a day or two.</p>",
+        "format": 1
+      },
+      "_id": "sjXTvSUc3Z6wHJx6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JaIVqUkePXoF3QnA.sjXTvSUc3Z6wHJx6"
+    },
+    {
+      "name": "Game Trail and Mile Marker",
+      "type": "text",
+      "text": {
+        "content": "<p>This narrow track is a shortcut along the main trade route. It follows an ancient Khuzdul highway. Occasional bits of roadway have survived. Opposite the campsite, a badly eroded mile marker (really only a rock with a few faint runes) marks where to turn to find the campsite.</p>",
+        "format": 1
+      },
+      "_id": "QRRukrpE4lp254Rd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JaIVqUkePXoF3QnA.QRRukrpE4lp254Rd"
+    },
+    {
+      "name": "Hidden Chimneys and Trees",
+      "type": "text",
+      "text": {
+        "content": "<p>After carefully dismantling the small smoke stacks that once stood here, the Khuzdul camouflaged the shafts with smaller boulders. Over the years, trees have grown in, but despite their age still only of moderate size. They only grow where sufficient soil has collected in a crack or crevice.</p>",
+        "format": 1
+      },
+      "_id": "CSdIz7IfodiSiV5Q",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JaIVqUkePXoF3QnA.CSdIz7IfodiSiV5Q"
+    },
+    {
+      "name": "Hidden Door and Cliff Face",
+      "type": "text",
+      "text": {
+        "content": "<p>Once the main entrance to the Khuzdul Outpost, the door has not been moved in 1000 years. Nature has perfectly concealed any hints of its existence. The cliff itself is a 40’ high wall; many ledges and crevices make it climbable. A rock fall (just to the right of the camp) has created a series of steps, easily climbed by anyone; even a surefooted mule can negotiate it if given enough time.</p>",
+        "format": 1
+      },
+      "_id": "5g8mveWvwUXvYqSc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JaIVqUkePXoF3QnA.5g8mveWvwUXvYqSc"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201515764,
+    "modifiedTime": 1659201515764,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "JaIVqUkePXoF3QnA",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!JaIVqUkePXoF3QnA"
+}

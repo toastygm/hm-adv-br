@@ -1,0 +1,130 @@
+{
+  "name": "NPCs",
+  "pages": [
+    {
+      "name": "Arwalin of Rogila",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Role:</strong> Guide / Bowman</p>\n<p>He is on foot. The lead scout and “real” caravan master, he ranges ahead of the group. Arwalin knows the trade route very well and leads them down the “shortcut” to the campsite that he has used before. Klinla has bought his loyalty with excellent pay. He speaks only Hârnic.</p>\n<h2>Appearance</h2>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_409-1_Huntsman.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Middle aged</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>157 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Green</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Excellent</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Yeoman</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Short bow, axe and dagger</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>Quilt tunic</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 409-1 Huntsman</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>11 Peonu 686</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 33, height 5’ 9”, medium frame, weight 157 lb, attractive appearance, medium complexion, brown hair, green eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Rough cloth tunic and leggings; quilt tunic, cloak with hood; leather calf boots; Short bow, axe and dagger</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>58d in silver</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Arwalin was born on the Isle of Melderyn, the fourth child and only son of a yeoman household. When he was just a child, his father was killed in a hunting accident by the local baron. To make amends, the baron provided for the family and took Arwalin into his service as a huntsman when he was old enough. After a decade of duty, Arwalin developed a serious case of wanderlust. He sought and was granted permission to take leave of his duties and travel. Since that time he has travelled throughout Hârn.</p>\n<p>While in Kaldor, he spent time at the Peonian church in Bromeleon. The priests took a liking to him and he spent several months there working as a lay brother. Later, he escorted an iterant priest, Father Braeld, for nearly a year, crisscrossing Kaldor. When his work was finished, Arwalin then took his leave again and headed east.</p>\n<p>Skilled in the wilderness, Arwalin has little trouble feeding himself in the wilderness. If he runs afoul of the law, he bears a scroll naming him as the baron’s liegeman. He drifts from region to region, finding work as his money runs out and taking odd jobs. He has worked as a mercenary, though he has little taste for killing humans.</p>\n<p>At thirty-three years old, Arwalin wants to settle down, however a serious kick to the groin when he was a teenager has rendered him sterile, making it more difficult to find a wife since he knows he can’t have children. He has no pressing urge to return home, as he knows his mother and sisters are well taken care of. If something better does not appear in the near future, he is considering entering the Peonian church as a lay brother.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "6UVWmXqjBCXAtIcT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0L1bAO73zNxEHhfb.6UVWmXqjBCXAtIcT"
+    },
+    {
+      "name": "Gathric of Deschu",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Role:</strong> Klinla's manservant / Cook / Mule wrangler</p>\n<p>He is on foot, leading four mules (two carry Klinla’s belongings and two carrying food/supplies). He is very suspicious of anyone coming near Klinla’s packs. He obeys all Klinla’s commands and defers to Otto and Arwalin. He speaks only Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_417-1_Servant.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Heavy</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>173 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Blonde</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Pleasant</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Left handed</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Manservant</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Little</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Club and dagger</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Broken nose and scars</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 417-1 Servant</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>22 Navek 690</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 29, height 5’ 9”, heavy frame, weight 173 lb, attractive appearance, fair complexion, blond hair, hazel eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Left handed</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Average cloth tunic and leggings; Leather shoes; Club and dagger</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>19d in silver</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Every wealth household has people like Gathric, a sturdy, hardworking servant. He has worked in the same house since he was sixteen, fetching water, cutting firewood, carrying parcels and escorting his mistress in her daily forays into town. His size and skill with a club make him a formidable escort for his employers and he can often be seen carrying a load of goods for them during the day or a torch during the night. He is also the jack-of-alltrades handyman, repairing broken items around the house. He sleeps in the kitchen near the fire and is a light sleeper waking at the slightest sound. His cudgel is always close at hand.</p>\n<p>The second of five children, Gathric went to live with his maternal grandfather after his mother died and his father remarried. Twelve years old at the time, he and his stepmother hated each other openly, which made him unpopular with his father. His grandfather taught him to sing and play the drums. He is good enough that he is sometimes invited to sing and play at the local tavern.</p>\n<p>When he turned sixteen, his grandfather found him a job as a servant where he has worked for the last eleven years. A big lad, five foot nine inches with a heavy frame he weighs 173lbs. His fair complexion, blond hair, hazel eyes and good looks are marred only by a broken nose and scars on his forehead he earned in a bar brawl. He is left-handed and has rough calloused hands from regular heavy labour. He is kind and flirtatious with women, which has earned him a reputation as a ladies man and a girlfriend with an illegitimate baby daughter. He is careless, often not paying attention to his duties and is forgetful of the time. Since he was very young, Gathric has had the odd quirk of sneezing when he walks out into sunlight.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "euofpdQpVG1WRirj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0L1bAO73zNxEHhfb.euofpdQpVG1WRirj"
+    },
+    {
+      "name": "Klinla of Vebelirky",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Role:</strong> Important Guildsman / Caravan Master</p>\n<p>He is mounted on a fine palfrey. Officially, he is the organizer of the caravan and nominally in charge. He is travelling to Orbaal on business. He accepted Arwalin’s “suggested” that they might want others along. Although he is anxious to move on, he is easily tempted to stay for a share of any treasure. He speaks Hârnic and Azeryani.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_313-1_Jeweller.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Elderly</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Imperial</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 8 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>138 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Grey</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Constantly sneezing around dogs and cats</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Jeweller</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Wealthy</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>Two well-armed bodyguards</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>Beard and moustache</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 313-1 Jeweller</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>10 Larane 665</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 54, height 5’ 8”, light frame, weight 138 lb, plain appearance, medium complexion, grey hair, hazel eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Allergy (dogs and cats)</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Fine cloth robe and leather hat trimmed with fur, fine cloth leggings and leather shoes</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>£3 in raw gold, £2 in unmounted gems, 254d in silver coins, £5 in finished jewellery (gold, silver and gems)</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Born in Paran, shortly after the Thardic League annexed it, Klinla is the bastard son of a senior official and a jeweller’s daughter. Though he was the eldest grandchild of the jeweller, his bastard status made him unpopular even as a child. He was brought up in the family business, but always had to work twice as hard for half the recognition. He completed his apprenticeship and left Paran to become a journeyman. His departure was not mourned and his grandfather made his status clear “I have clothed you, fed you and given you a trade for the sake of my daughter. You are eighteen; I owe you nothing more. Never return, I declare our relationship concluded.”</p>\n<p>Klinla has travelled extensively throughout Hârn and Lythia, including spending almost twenty years living in Azeryan. He earned the title master jeweller and has made a considerable fortune trading gold, silver and gems. His exquisitely crafted jewellery is in great demand among the wealthy and elite of Hârn. Perhaps because of the rejection by his family, a somewhat homely appearance and squinty eyes, Klinla compensates by being an exceptionally friendly man. He has a knack for being warm and comforting, quickly putting new acquaintances and customers at ease. He is well known as an honest and upstanding businessman. His word is his bond and he has many friends in high places as a result.</p>\n<p>Klinla travels continuously from city to city, with significant amounts of precious metals and gems. Because of this, he hires only the best and most reliable sellswords to provide security for his goods and act as his bodyguards. He pays top wages and rewards loyalty highly. His network of contacts includes wealthy guildsmen and nobility. He rarely stays in inns, as he has dozens of standing invitations to stay with his many satisfied customers.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "sUbYXmC0lT1fOYLK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0L1bAO73zNxEHhfb.sUbYXmC0lT1fOYLK"
+    },
+    {
+      "name": "Otto",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Role:</strong> Klinla's Bodyguard</p>\n<p>He is on foot leading Klinla’s horse. He is the jeweller’s personal bodyguard and has been with him for several years. He stays with him at all times and his handsomely paid for his loyalty. He speaks only Hârnic.</p>\n<h3>Appearance</h3>\n<p><img style=\"width:30%;float:left;margin-right:5px\" src=\"modules/hm-adv-br/assets/images/FFF_115-1_Mercenary_MF.jpg\" /></p>\n<table style=\"width:65%\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td><strong>Culture</strong></td>\n<td>Imperial</td>\n</tr>\n<tr>\n<td><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>165 lb</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td><strong>Obvious Medical Traits</strong></td>\n<td>Left handed</td>\n</tr>\n<tr>\n<td><strong>Apparent Occupation</strong></td>\n<td>Mercenary</td>\n</tr>\n<tr>\n<td><strong>Apparent Wealth</strong></td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td><strong>Weapons</strong></td>\n<td>Spear, short sword, and dagger</td>\n</tr>\n<tr>\n<td><strong>Armour</strong></td>\n<td>Plate half-helm, mail byrnie, round shield</td>\n</tr>\n<tr>\n<td><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"clear:left\">Biographical Information</h3>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Title</strong></td>\n<td>FFF 115-1 Mercenary MF</td>\n</tr>\n<tr>\n<td><strong>Birthday</strong></td>\n<td>27 Peonu 694</td>\n</tr>\n<tr>\n<td><strong>Appearance</strong></td>\n<td>Age 25, height 5’ 9”, medium frame, weight 165 lb, average appearance, medium complexion, brown hair, hazel eyes</td>\n</tr>\n<tr>\n<td><strong>Medical/Psyche</strong></td>\n<td>Left-handed</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Armor</strong></td>\n<td>Cloth tunic and leggings; leather knee boots and gauntlets; kurbul vambraces, coudes and kneecops; plate half helm; mail byrnie; round shield, short sword, spear, dagger, two taburi. May be encountered with reduced and/or no armour, armed with Taburi, dagger, and/or short sword</td>\n</tr>\n<tr>\n<td><strong>Other Equipment</strong></td>\n<td>Two vials of Gethepa poison, belt pouch</td>\n</tr>\n<tr>\n<td><strong>Valuables</strong></td>\n<td>92d in silver in a money pouch</td>\n</tr>\n<tr>\n<td><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Otto is a product of the seedier aspects of the Thardic Republic. His parents were both Lia-Kavair and lay worshippers of Naveh in Shiran. Otto was trained as an assassin by the Naveh and made three kills at the order of the temple. If circumstances had been different, Otto may have been inducted into the priesthood, but he refused kill the victim of his fourth assignment. As a test of Otto’s dedication to Naveh the temple had named his sister as his fourth victim, he refused. Otto was sentenced to the Herth-Akan and survived, killing all seven of his pursuers. After this, he chose to leave Tharda, but still waits for the day the temple decides to send others to kill him. Otto still possesses two vials of Gethepa poison.</p>\n<p>Since leaving Tharda, Otto has made his way as a mercenary, spending three years with a company in Rethem before moving on. He can be encountered almost anywhere in Hârn, but prefers to stay away from Tharda, especially Shiran. Since leaving the mercenary company, Otto has predominantly worked as a bodyguard to wealthy merchants.</p>\n<p>He still enjoys “the Hunt” as he calls it, and if circ stances allow, will practice his stealth and stalking – only on one of these occasions has he actually taken the life of his target. Otto is considering his next move, with a goal of joining the ranks of the wealthy.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "x4XyV4mSQwtUzKjh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0L1bAO73zNxEHhfb.x4XyV4mSQwtUzKjh"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201515742,
+    "modifiedTime": 1659201515742,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "0L1bAO73zNxEHhfb",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!0L1bAO73zNxEHhfb"
+}
